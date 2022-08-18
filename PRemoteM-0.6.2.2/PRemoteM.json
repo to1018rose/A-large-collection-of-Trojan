@@ -1,0 +1,47 @@
+﻿{
+  "General": {
+    "CurrentLanguageCode": "zh-cn",
+    "AppStartAutomatically": false,
+    "AppStartMinimized": true,
+    "ListPageIsCardView": false,
+    "ConfirmBeforeClosingSession": false
+  },
+  "Launcher": {
+    "LauncherEnabled": true,
+    "HotKeyModifiers": 1,
+    "HotKeyKey": 56
+  },
+  "KeywordMatch": {
+    "EnabledMatchers": [
+      "DirectMatchProvider",
+      "InitialsMatchProvider",
+      "DiscreteMatchProvider",
+      "ChineseZhCnPinYinInitialsMatchProvider",
+      "ChineseZhCnPinYinMatchProvider"
+    ]
+  },
+  "Database": {
+    "SqliteDatabasePath": ".\\PRemoteM.db"
+  },
+  "Theme": {
+    "ThemeName": "Light",
+    "PrimaryMidColor": "#FFF2F3F5",
+    "PrimaryLightColor": "#FFFFFFFF",
+    "PrimaryDarkColor": "#FFE4E7EB",
+    "PrimaryTextColor": "#FF232323",
+    "AccentMidColor": "#FFE83D61",
+    "AccentLightColor": "#FFED6884",
+    "AccentDarkColor": "#FFB5304C",
+    "AccentTextColor": "#FFFFFFFF",
+    "BackgroundColor": "#FFFFFFFF",
+    "BackgroundTextColor": "#000000"
+  },
+  "Engagement": {
+    "InstallTime": "2022-05-15T00:00:00+08:00",
+    "DoNotShowAgain": false,
+    "DoNotShowAgainVersionString": "",
+    "LastRequestRatingsTime": "0001-01-01T00:00:00",
+    "ConnectCount": 2
+  },
+  "PinnedTags": []
+}
